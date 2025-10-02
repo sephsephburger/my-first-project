@@ -28,3 +28,4 @@ if temperature < 35:
 
 while temperature < 35:
     print("I am cool.")
+    temperature = temperature + 5
